@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Menu.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Menu.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Dice.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Dice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Dice.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Farkle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{211395F5-13D8-4DAD-AAA1-44592EBDDE59}|Farkle\\Farkle.vcxproj|solutionrelative:Farkle\\Farkle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dice.cpp",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Dice.cpp",
+              "RelativeDocumentMoniker": "Farkle\\Dice.cpp",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Dice.cpp",
+              "RelativeToolTip": "Farkle\\Dice.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T21:32:53.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dice.h",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Dice.h",
+              "RelativeDocumentMoniker": "Farkle\\Dice.h",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Dice.h",
+              "RelativeToolTip": "Farkle\\Dice.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T21:32:30.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Menu.cpp",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Menu.cpp",
+              "RelativeDocumentMoniker": "Farkle\\Menu.cpp",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Menu.cpp",
+              "RelativeToolTip": "Farkle\\Menu.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T20:15:31.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Menu.h",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Menu.h",
+              "RelativeDocumentMoniker": "Farkle\\Menu.h",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Menu.h",
+              "RelativeToolTip": "Farkle\\Menu.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T20:15:20.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Player.h",
+              "RelativeDocumentMoniker": "Farkle\\Player.h",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Player.h",
+              "RelativeToolTip": "Farkle\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T19:46:34.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Game.cpp",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Game.cpp",
+              "RelativeDocumentMoniker": "Farkle\\Game.cpp",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Game.cpp",
+              "RelativeToolTip": "Farkle\\Game.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAArwBAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T19:43:03.139Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Game.h",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Game.h",
+              "RelativeDocumentMoniker": "Farkle\\Game.h",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Game.h",
+              "RelativeToolTip": "Farkle\\Game.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2026-04-21T19:42:53.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Farkle.cpp",
+              "DocumentMoniker": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Farkle.cpp",
+              "RelativeDocumentMoniker": "Farkle\\Farkle.cpp",
+              "ToolTip": "C:\\Users\\xavia\\OneDrive\\Documents\\School\\IT312\\assignments\\Farkle\\Farkle\\Farkle.cpp",
+              "RelativeToolTip": "Farkle\\Farkle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-04-21T19:34:49.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
